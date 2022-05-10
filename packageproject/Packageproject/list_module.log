@@ -1,0 +1,8 @@
+2022-05-09 18:28:49,657 INFO List object is created with value : [1, 2, 3]
+2022-05-09 18:29:15,963 INFO List object is created with value : [1, 2, 3]
+2022-05-09 18:29:15,963 INFO List object appended with value x
+2022-05-09 18:31:06,418 INFO List object is created with value : [1, 2, 3]
+2022-05-09 18:31:06,418 INFO List object appended with value x
+2022-05-09 18:34:14,491 INFO List object is created with value : [1, 2, 3]
+2022-05-09 18:34:14,491 INFO List object appended with value x
+2022-05-09 18:34:14,492 INFO Created Shallow copy of the list

@@ -1,0 +1,44 @@
+2022-04-20 15:39:45,061 INFO Calling GUICode file
+2022-04-20 15:39:45,097 INFO Entered into GUI Code File
+2022-04-20 15:39:48,257 INFO Opening GUI Window
+2022-04-20 15:40:02,603 INFO Submit Button Clicked
+2022-04-20 15:40:02,603 INFO Entered folder path is : D:\UK - Documents\10th and 12th
+2022-04-20 15:40:02,604 INFO Calling Get All The file Function
+2022-04-20 15:40:02,604 INFO Get_all_files_function
+2022-04-20 15:40:02,604 INFO Printing all file list
+2022-04-20 15:40:02,604 INFO Printing PDF file list
+2022-04-20 15:40:03,707 INFO Submit Button Clicked
+2022-04-20 15:40:03,707 INFO Entered folder path is : D:\UK - Documents\10th and 12th
+2022-04-20 15:40:03,707 INFO Calling Get All The file Function
+2022-04-20 15:40:03,708 INFO Get_all_files_function
+2022-04-20 15:40:03,708 INFO Printing all file list
+2022-04-20 15:40:03,708 INFO Printing PDF file list
+2022-04-20 15:40:04,227 INFO Submit Button Clicked
+2022-04-20 15:40:04,227 INFO Entered folder path is : D:\UK - Documents\10th and 12th
+2022-04-20 15:40:04,227 INFO Calling Get All The file Function
+2022-04-20 15:40:04,227 INFO Get_all_files_function
+2022-04-20 15:40:04,228 INFO Printing all file list
+2022-04-20 15:40:04,228 INFO Printing PDF file list
+2022-04-20 15:40:04,403 INFO Submit Button Clicked
+2022-04-20 15:40:04,403 INFO Entered folder path is : D:\UK - Documents\10th and 12th
+2022-04-20 15:40:04,403 INFO Calling Get All The file Function
+2022-04-20 15:40:04,403 INFO Get_all_files_function
+2022-04-20 15:40:04,404 INFO Printing all file list
+2022-04-20 15:40:04,404 INFO Printing PDF file list
+2022-04-20 15:40:04,547 INFO Submit Button Clicked
+2022-04-20 15:40:04,548 INFO Entered folder path is : D:\UK - Documents\10th and 12th
+2022-04-20 15:40:04,548 INFO Calling Get All The file Function
+2022-04-20 15:40:04,548 INFO Get_all_files_function
+2022-04-20 15:40:04,548 INFO Printing all file list
+2022-04-20 15:40:04,548 INFO Printing PDF file list
+2022-04-20 15:40:08,547 INFO PDF Merge Button Clicked
+2022-04-20 15:40:08,548 INFO Calling Get All File Function
+2022-04-20 15:40:08,548 INFO Enter folder Path is : D:\UK - Documents\10th and 12th
+2022-04-20 15:40:08,548 INFO Get_all_files_function
+2022-04-20 15:40:08,548 INFO Merge PDF Function
+2022-04-20 15:40:08,572 INFO Merge_pdf Function : Merging PDF
+2022-04-20 15:40:08,574 INFO New Merger PDF Created with name :04202022_154008_MergedFile.pdf
+2022-04-20 15:40:08,574 INFO Get_all_files_function
+2022-04-20 15:40:08,574 INFO Updating PDF List after Merging
+2022-04-20 15:45:12,767 INFO Closed GUI Window
+2022-04-20 15:45:12,767 INFO Returned From File
